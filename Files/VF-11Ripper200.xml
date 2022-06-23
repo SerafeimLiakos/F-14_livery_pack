@@ -30,7 +30,7 @@
 		<livery-patch>
 			<name type="string">VF-11 "Red Rippers" | Ripper 200</name>
 			<index type="int">0</index>
-			<texture>Liveries/patch.RedRippers.png</texture>
+			<texture>Liveries/patch.VF-11.png</texture>
 		</livery-patch>
 
 		</model>
