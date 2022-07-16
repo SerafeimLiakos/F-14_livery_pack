@@ -31,7 +31,7 @@
 		<livery-patch>
 			<name type="string">VF-103 "Jolly Rogers" | Victory 103</name>
 			<index type="int">0</index>
-			<texture>Liveries/patch.jollyrogers.png</texture>
+			<texture>Liveries/patch.VF-103.png</texture>
 		</livery-patch>
 
 
