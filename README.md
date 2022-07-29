@@ -20,9 +20,20 @@ More specifically, the present repository contains the liveries for:
 		  Modex 103 (F-14B BuNo 163217, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 105 (F-14B BuNo 163229, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 110 (F-14B BuNo 161435, Last Tomcat Cruise '04-'05, CVW-17);
-		  Modex 110 (F-14B BuNo 161435, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 111 (F-14B BuNo 162695, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 112 (F-14B BuNo 161422, Last Tomcat Cruise '04-'05, CVW-17).
+		  
+To use the liveries included in this repository:
+- Copy all files found in the 'Files' folder found inside 'F-14_livery_pack'.
+- Paste the files inside the 'Liveries' folder found under the path 'f-14b/Models'.
+  The path to that folder may differ depending on the way you've added the F-14 to
+  the launcher. 
+  For instance, if the 'f-14b' folder is found under the path
+  'fg-aircraft(-[branch])/aircraft' (where [branch] is any of the branches available
+  in the F-14 GitHub repository found at https://github.com/Zaretto/fg-aircraft)
+  and the 'fg-aircraft(-[branch])' folder is located on your
+  desktop, the path would probably be:
+  'Desktop/fg-aircraft(-[branch])/aircraft/f-14b/Models/Liveries'.
 		  
 I really hope you enjoy my work as much as I do. Happy flying!
 - VooDoo3
