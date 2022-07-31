@@ -22,6 +22,7 @@ More specifically, the present repository contains the liveries for:
 		  Modex 110 (F-14B BuNo 161435, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 111 (F-14B BuNo 162695, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 112 (F-14B BuNo 161422, Last Tomcat Cruise '04-'05, CVW-17).
+- PMTC:   Modex 226 (F-14A BuNo 158625, ca. 1980).
 		  
 To use the liveries included in this repository:
 - Copy all files found in the 'Files' folder found inside 'F-14_livery_pack'.
