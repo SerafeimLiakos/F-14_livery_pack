@@ -10,6 +10,7 @@ More specifically, the present repository contains the liveries for:
           Modex 203 (F-14A BuNo 162604, Combat Cruise '99, CVW-8);
 		  Modex 207 (F-14A BuNo 161292, Combat Cruise '99, CVW-8);
 		  Modex 212 (F-14A BuNo 161284, Combat Cruise '99, CVW-8).
+- VF-24:  Modex 212 (F-14B BuNo 163411 "Thief of Baghdad", 1990-1991, CVW-9).
 - VF-41:  Modex 100 (F-14A BuNo 161295, Combat Cruise '99, CVW-8);
           Modex 102 (F-14A BuNo 161856, Combat Cruise '99, CVW-8);
 		  Modex 106 (F-14A BuNo 161294, Combat Cruise '99, CVW-8);
@@ -22,6 +23,13 @@ More specifically, the present repository contains the liveries for:
 		  Modex 110 (F-14B BuNo 161435, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 111 (F-14B BuNo 162695, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 112 (F-14B BuNo 161422, Last Tomcat Cruise '04-'05, CVW-17).
+- VF-143: Modex 100 (F-14B BuNo 163220, Last Tomcat Cruise '04-'05, CVW-7);
+          Modex 101 (F-14B BuNo 163407, Last Tomcat Cruise '04-'05, CVW-7);
+		  Modex 102 (F-14B BuNo 162921, Last Tomcat Cruise '04-'05, CVW-7);
+		  Modex 103 (F-14B BuNo 161421, Last Tomcat Cruise '04-'05, CVW-7);
+		  Modex 105 (F-14B BuNo 162926, Last Tomcat Cruise '04-'05, CVW-7);
+		  Modex 111 (F-14B BuNo 162701, Last Tomcat Cruise '04-'05, CVW-7);
+		  Modex 143 (F-14B BuNo 162926, Modex 105 repainted in a Retro paint scheme, 2005-present).
 - PMTC:   Modex 226 (F-14A BuNo 158625, Pt. Mugu PMTC, ca. 1980).
 		  
 To use the liveries included in this repository:
