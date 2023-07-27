@@ -22,7 +22,8 @@ More specifically, the present repository contains the liveries for:
           Modex 102 (F-14A BuNo 161856, Combat Cruise '99, CVW-8);
 		  Modex 106 (F-14A BuNo 161294, Combat Cruise '99, CVW-8);
 		  Modex 114 (F-14A BuNo 161275, Combat Cruise '99, CVW-8).
-- VF-101: Modex 101 - CO's "Tomato" (F-14B BuNo 162923, ca. 1995-1997).
+- VF-101: Modex 101 (F-14B BuNo 163226, ca. 1994);
+          Modex 101 - CO's "Tomato" (F-14B BuNo 162923, ca. 1995-1997).
 - VF-103: Modex 100 (F-14B BuNo 162918, Last Tomcat Cruise '04-'05, CVW-17);
           Modex 101 (F-14B BuNo 162705, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 102 (F-14B BuNo 161419, Last Tomcat Cruise '04-'05, CVW-17);
