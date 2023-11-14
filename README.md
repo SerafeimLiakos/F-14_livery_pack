@@ -18,6 +18,15 @@ More specifically, the present repository contains the liveries for:
 		  Modex 207 (F-14A BuNo 161292, Combat Cruise '99, CVW-8);
 		  Modex 212 (F-14A BuNo 161284, Combat Cruise '99, CVW-8).
 - VF-24:  Modex 212 (F-14B BuNo 163411 "Thief of Baghdad", 1990-1991, CVW-9).
+- VF-31:  Modex 100 (F-14B BuNo 162916, Combat Cruise '03-'04, CVW-3) (HD livery);
+          Modex 101 (F-14B BuNo 161860, Last Tomcat Cruise, CVW-3) (HD livery);
+		  Modex 102 (F-14B BuNo 162692, Last Tomcat Cruise, CVW-3);
+		  Modex 103 (F-14B BuNo 162915, Last Tomcat Cruise, CVW-3);
+		  Modex 104 (F-14B BuNo 163410, Last Tomcat Cruise, CVW-3) (HD livery);
+		  Modex 105 (F-14B BuNo 163216, Last Tomcat Cruise, CVW-3);
+		  Modex 107 (F-14B BuNo 163224 STS-107 Memorial, Combat Cruise '03-'04, CVW-3) (HD livery);
+		  Modex 111 (F-14B BuNo 161428, Last Tomcat Cruise, CVW-3);
+		  Modex 114 (F-14B BuNo 161424, Last Tomcat Cruise, CVW-3) (HD livery);
 - VF-41:  Modex 100 (F-14A BuNo 161295, Combat Cruise '99, CVW-8);
           Modex 102 (F-14A BuNo 161856, Combat Cruise '99, CVW-8);
 		  Modex 106 (F-14A BuNo 161294, Combat Cruise '99, CVW-8);
