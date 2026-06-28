@@ -31,8 +31,18 @@ More specifically, the present repository contains the liveries for:
           Modex 102 (F-14A BuNo 161856, Combat Cruise '99, CVW-8);
 		  Modex 106 (F-14A BuNo 161294, Combat Cruise '99, CVW-8);
 		  Modex 114 (F-14A BuNo 161275, Combat Cruise '99, CVW-8).
+- VF-74:  Modex 101 (F-14B BuNo 162919, Su-27/MiG-31-style aggressor paint scheme, 1993-'94) (HD livery);
+          Modex 105 (F-14B BuNo 163221, Su-27/MiG-31-style aggressor paint scheme, 1993-'94) (HD livery).
 - VF-101: Modex 101 (F-14B BuNo 163226, ca. 1994);
           Modex 101 - CO's "Tomato" (F-14B BuNo 162923, ca. 1995-1997).
+- VF-102: Modex 100 (F-14B BuNo 163224, 1994-1995, CVW-1);
+          Modex 102 (F-14B BuNo 163409, 1994-1995, CVW-1);
+		  Modex 112 (F-14B BuNo 161416, 1994-1995, CVW-1);
+		  Modex 113 (F-14B BuNo 161599, 1994-1995, CVW-1);
+		  Modex 102 (F-14B BuNo 163225, Last Tomcat Cruise '01-'02 OEF, CVW-1) (HD livery);
+		  Modex 104 (F-14B BuNo 161440, Last Tomcat Cruise '01-'02 OEF, CVW-1);
+		  Modex 105 (F-14B BuNo 162692, Last Tomcat Cruise '01-'02 OEF, CVW-1) (HD livery);
+		  Modex 106 (F-14B BuNo 162920, Last Tomcat Cruise '01-'02 OEF, CVW-1).
 - VF-103: Modex 100 (F-14B BuNo 162918, Last Tomcat Cruise '04-'05, CVW-17);
           Modex 101 (F-14B BuNo 162705, Last Tomcat Cruise '04-'05, CVW-17);
 		  Modex 102 (F-14B BuNo 161419, Last Tomcat Cruise '04-'05, CVW-17);
