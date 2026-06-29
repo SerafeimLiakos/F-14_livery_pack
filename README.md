@@ -1,9 +1,26 @@
 F-14_livery_pack
 
+General info:
 This repository features additional liveries for the FlightGear F-14 Tomcat 
 (by Richard Harrison, Enrique Laso, Alexis Bory, Nikolai V. Chr.)
 designed by VooDoo3.
 
+Download and Installation:
+To use the liveries included in this repository:
+- Clone/download the repository (through Git Bash, directly downloading it from GitHub or any other way
+  you'd like).
+- Copy/move all files from the 'Files' folder found inside 'F-14_livery_pack'.
+- Paste the files inside the 'Liveries' folder found under the path 'f-14b/Models'.
+  The path to that folder may differ depending on the way you've added the F-14 to
+  the launcher. 
+  For instance, if the 'f-14b' folder is found under the path
+  'fg-aircraft(-[branch])/aircraft' (where [branch] is any of the branches available
+  in the F-14 GitHub repository found at https://github.com/Zaretto/fg-aircraft)
+  and the 'fg-aircraft(-[branch])' folder is located on your
+  desktop, the path would probably be:
+  'Desktop/fg-aircraft(-[branch])/aircraft/f-14b/Models/Liveries'.
+
+Livery info:
 More specifically, the present repository contains the liveries for:
 - VF-11:  Modex 200 (F-14B BuNo 163227, Last Tomcat Cruise '04-'05, CVW-7) (HD livery);
           Modex 201 (F-14B BuNo 162912, Last Tomcat Cruise '04-'05, CVW-7);
@@ -76,17 +93,7 @@ More specifically, the present repository contains the liveries for:
 		  Modex 143 (F-14B BuNo 162926, Modex 105 repainted in a Retro paint scheme, 2005-present) (HD livery).
 - PMTC:   Modex 226 (F-14A BuNo 158625, Pt. Mugu PMTC, ca. 1980).
 		  
-To use the liveries included in this repository:
-- Copy all files found in the 'Files' folder found inside 'F-14_livery_pack'.
-- Paste the files inside the 'Liveries' folder found under the path 'f-14b/Models'.
-  The path to that folder may differ depending on the way you've added the F-14 to
-  the launcher. 
-  For instance, if the 'f-14b' folder is found under the path
-  'fg-aircraft(-[branch])/aircraft' (where [branch] is any of the branches available
-  in the F-14 GitHub repository found at https://github.com/Zaretto/fg-aircraft)
-  and the 'fg-aircraft(-[branch])' folder is located on your
-  desktop, the path would probably be:
-  'Desktop/fg-aircraft(-[branch])/aircraft/f-14b/Models/Liveries'.
+
 		  
 These liveries are, by all means available to myself (such as references, sources and software capability),
 as close as they can get to the real aircraft flying in their respective time periods.
